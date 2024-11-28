@@ -7,7 +7,7 @@ Objetivos:
     Familiarizar os alunos com as principais funcionalidades do GitHub, 
     como repositórios, branches, commits, pull requests, issues e colaboração em equipe;
     Introduzir os principais padrões de projeto utilizados em Engenharia de Software.
-Descrição: A atividade consiste no desenvolvimento de um pequeno projeto colaborativo usando o GitHub em equipes de até 6 pessoas. O tema do projeto será a criação de um repositório sobre os seguintes Padrões de Projeto:  Factory, Singleton, Proxy, Adapter, Facade, Decorator, Strategy, Observer, Template Method, Visitor. Os padrões que serão trabalhados pela equipe serão definidos por meio de um sorteio de acordo com a quantidade de membros.
+Descrição: A atividade consiste no desenvolvimento de um pequeno projeto colaborativo usando o GitHub em equipes de até 6 pessoas. O tema do projeto será a criação de um repositório sobre os seguintes Padrões de Projeto:  Proxy, Adapter, Observer, Template Method.
 
 Etapas
 
