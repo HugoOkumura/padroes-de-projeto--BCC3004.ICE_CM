@@ -26,3 +26,7 @@ de certas etapas. Evitando repetição de código e facilita a manutenção</p>
     <li>Possível vioalão do princípio de subtituição de Liskov suprimindo uma implementação de etapa padrão por meio de uma subclasse.</li>
     <li>Dificuldade de manutenção conforme o número de etapas aumentam.</li>
 </ul>
+
+<h3>Referencias</h3>
+<a href="https://refactoring.guru/design-patterns/template-method">Refactoring Guru</a>
+ChatGPT
