@@ -40,9 +40,6 @@ class ConcreteClass1(AbstractClass):
 
 class ConcreteClass2(AbstractClass):
 
-    #implementação específica da classe concreta 1
-    def required_operation1(self):
-        print("ConcreteClass2: operação especifica 1")
-
+    #implementação específica da classe concreta2
     def required_operation2(self):
         print("ConcreteClass2: operação especifica 2")
