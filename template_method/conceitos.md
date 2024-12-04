@@ -14,3 +14,15 @@ de certas etapas. Evitando repetição de código e facilita a manutenção</p>
     <li>Quando várias classes tiverem rotinas muito similares, com apenas algumas diferenças essenciais. </li>
 </ul>
 
+<h3>Vantagens</h3>
+<ul>
+    <li>Reutilização de código: o algoritmo comum é implementado na superclasse, permitindo que classes herdades de executá-la.</li>
+    <li>Manutenção: qualquer alteração no código das etapas é isolada nas próprias classes, evitando problemas de manutenção.</li>
+</ul>
+
+<h3>Desvantagens</h3>
+<ul>
+    <li>Alguns usuários podem ter uma limitação dependendo do esqueleto do algoritmo.</li>
+    <li>Possível vioalão do princípio de subtituição de Liskov suprimindo uma implementação de etapa padrão por meio de uma subclasse.</li>
+    <li>Dificuldade de manutenção conforme o número de etapas aumentam.</li>
+</ul>
