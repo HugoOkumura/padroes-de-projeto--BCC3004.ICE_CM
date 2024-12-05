@@ -10,4 +10,6 @@ Objetivos:
 Descrição: A atividade consiste no desenvolvimento de um pequeno projeto colaborativo usando o GitHub em equipes de até 6 pessoas. O tema do projeto será a criação de um repositório sobre os seguintes Padrões de Projeto: 
 <b> Proxy, Adapter, Observer, Template Method. </b>
 
+Este repositório possui um arquivo contributing.md que é um documento textual que instrui como se localizar e produzir para este repositório.
+
 
